@@ -4,9 +4,13 @@
     margin: 0;
 }
 
+/* body styling */
+
 body {
     background-color: #d9dcd6;
 }
+
+/* header and nav bar styling */
 
 .header {
     padding: 20px;
@@ -41,14 +45,20 @@ body {
     margin-left: 25px;
 }
 
+/* link styling */
+
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* paragraph styling */
+
 p {
     font-size: 16px;
 }
+
+/* hero image styling */
 
 .hero {
     height: 800px;
@@ -58,6 +68,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* float styling */
 
 .float-left {
     float: left;
@@ -69,11 +81,15 @@ p {
     margin-left: 25px;
 }
 
+/* content styling */
+
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+/* main styling */
 
 .section-article {
     margin-bottom: 20px;
@@ -92,6 +108,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* aside styling */
 
 .benefits {
     margin-right: 20px;
@@ -119,6 +137,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* footer styling */
 
 .footer {
     padding: 30px;
