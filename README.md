@@ -10,15 +10,10 @@
 
 ---
 
-![img](horiseonScreenshot.png)
+![screenshot of webpage](/assets/images/horiseonScreenshot.png)
 
----
 
-## The website has three shortcuts:
 
-![img](searchBar.png)
-
-the function of these shortcuts is as follows:
 
 
 
