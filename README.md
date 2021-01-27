@@ -8,7 +8,7 @@ In this assignment, I *refactored* a marketing groups website to make the HTML a
 
 ---
 
-## [visit the deplyed website in my github](https://github.com/joshuamaney/Refactor_HTML_CSS) ##
+## [visit the deplyed website in my github](https://joshuamaney.github.io/Refactor_HTML_CSS/) ##
 
 
 
